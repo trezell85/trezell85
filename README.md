@@ -2,7 +2,7 @@
 #### I am a Front End Web Developer.
 ![I am a Front End Web Developer.](https://pbs.twimg.com/profile_banners/1272380788374417412/1639115001/1500x500)
 
-My passions are creating, coding, planning, and organizing. I enjoy learning new coding concepts.
+My passions are creating, coding, planning, and organizing. I also enjoy learning new coding concepts.
 
 Skills: JS / HTML / CSS
 
